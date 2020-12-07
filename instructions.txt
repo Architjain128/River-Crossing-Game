@@ -1,0 +1,16 @@
+ Documentation
+
+in this game you have to cross the players the river by not hitting obstacles
+who ever reaches first with max scores wins the game
+
+controls 
+ _______|___p1______________________________
+ right  |   arrow right  |      NUM 6
+ left   |   arrow left   |      NUM 4
+ up     |   arrow up     |      NUM 8
+ down   |   arrow down   |      NUM 2
+
+ SPACE bar to get results
+
+    THANK YOU
+    HAVE A NICE GAME 
